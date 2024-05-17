@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Symon
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Python, Java, C++
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Python, Java, C++, Django 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me its.symonbarua@gmail.com
 <!---
